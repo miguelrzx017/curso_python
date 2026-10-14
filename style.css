@@ -1,0 +1,49 @@
+<style>
+    body{
+        background-color: papayawhip;
+        color: purple;
+        margin: 0;
+    }
+    h1{
+        color: blue;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    h2{
+        color: purple;
+        text-align: center;
+    }
+    p{
+        text-align: justify;
+        color: purple;
+    }
+    .destaque{
+        background-color: brown;
+        color: azure;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    #img-logo{
+        width: 50px;
+    }
+    nav li{
+        display: inline;
+        margin-right: 20px;
+        color: rgb(134, 54, 54);
+        font-weight: bold;
+        border: 2px solid rgb(134, 54, 54);
+    }
+    nav{
+        float: right;
+    }
+    header{
+        background-color: #ccc;
+        color: black;
+    }
+    main{
+        margin: auto 20%;
+    }
+    footer{
+        background-color: azure;
+    }
+</style>
